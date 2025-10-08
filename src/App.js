@@ -9,7 +9,7 @@ function App() {
       
       <section>
         <h3>Resume</h3>
-        <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/public/resume.pdf" target="_blank" rel="noopener noreferrer">
       Download My Resume
         </a>
       </section>
@@ -48,6 +48,7 @@ function App() {
               href="www.linkedin.com/in/emmatrusio"
               target="_blank"
               rel="noopener noreferrer">
+              www.linkedin.com/in/emmatrusio
             </a>
           </li>
           <li>
@@ -55,6 +56,7 @@ function App() {
             href="www.github.com/eetrusio14"
             target="_blank"
             rel="noopener nonreferrer">
+            www.github.com/eetrusio14
             </a>
           </li>
         </u1>
