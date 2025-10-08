@@ -24,7 +24,7 @@ function App() {
           where I developed analytics dashboards, automated business workflows, and optimized data pipelines.
           My most recent projects involved merging enterprise datasets and building an internal Power App that 
           streamlined information flow across teams — experiences that deepened my knowledge of
-          data visualization, software design, and cross-functional collaboration:contentReference[oaicite:0]{index=0}.
+          data visualization, software design, and cross-functional collaboration.
         </p>
         <p>
           I’m now pursuing opportunities in <strong>data science</strong> and <strong>software development</strong>,
