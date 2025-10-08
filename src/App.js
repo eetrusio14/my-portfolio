@@ -18,7 +18,7 @@ function App() {
         <h3>Projects</h3>
         <u1>
         <li>
-            Pirate Battle Game – 
+            Pirate Battle Game: 
             <a
               href="https://github.com/eetrusio14/pirate-game"
               target="_blank"
@@ -52,6 +52,7 @@ function App() {
             </a>
           </li>
           <li>
+            GitHub:
             <a
             href="www.github.com/eetrusio14"
             target="_blank"
