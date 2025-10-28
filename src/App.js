@@ -41,8 +41,12 @@ function App() {
           <li>Java</li>
           <li>SQL</li>
           <li>R</li>
-          <li>Power BI</li>
-          <li>Power Apps</li>
+          <li>Power Query</li>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>Tableau</li>
+          <li>SASM</li>
           <li>Git / GitHub</li>
           <li>React</li>
         </ul>
@@ -83,8 +87,8 @@ function App() {
       <section>
         <h3>Internship Experience</h3>
         <p><strong>Colgate-Palmolive Corp.</strong> – IT Support Intern (Fall 2025)</p>
-        <p><strong>Pacira BioSciences</strong> – Data Analytics & Software Intern (Summer 2025)</p>
-        <p><strong>Schindler Elevator Corp.</strong> – Technical Support Intern (Summer 2024)</p>
+        <p><strong>Pacira BioSciences</strong> – Security Analytics & Development Intern (Summer 2025)</p>
+        <p><strong>Schindler Elevator Corp.</strong> – Data Quality & Analytics Intern (Summer 2024)</p>
       </section>
 
       {/* Contact Section */}
