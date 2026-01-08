@@ -7,7 +7,8 @@ function App() {
       <header>
         <h1>Emma Trusio</h1>
         <h2>Computer Science & Data Analytics @ Seton Hall University</h2>
-        <p className="tagline">Data Science • Software Development • Problem Solving</p>
+        <h3>Class of 2026</h3>
+        <p className="tagline">Data Engineering • Visualization Developer • Problem Solving</p>
       </header>
 
       {/* About Me Section */}
@@ -15,8 +16,8 @@ function App() {
         <h3>About Me</h3>
         <p>
           I’m a senior at Seton Hall University pursuing a B.S. in Computer Science with a minor in Data Analytics.
-          My academic and professional focus is turning raw data into insight and building tools that make
-          technical solutions intuitive for everyday users.
+          My academic and professional focus currently lies in transforming raw data in actionable insights. I am also pursuing my ACE 
+          (Associate Cloud Engineer) and CompTIA+ Security Certificate.
         </p>
         <p>
           I’ve applied my skills through internships at <strong>Pacira BioSciences</strong>, 
@@ -27,9 +28,9 @@ function App() {
           data visualization, software design, and cross-functional collaboration.
         </p>
         <p>
-          I’m now pursuing opportunities in <strong>data science</strong> and <strong>software development</strong>,
+          I’m now pursuing opportunities in <strong>data engineering</strong> and <strong>software development</strong>,
           where I can combine statistical reasoning, programming, and systems thinking to design solutions
-          that make information actionable and accessible.
+          that make information actionable and accessible to cross-collaborative teams.
         </p>
       </section>
 
@@ -67,12 +68,23 @@ function App() {
 
       {/* Projects Section */}
       <section>
-        <h3>Highlighted Project</h3>
+        <h3>Highlighted Projects</h3>
         <ul>
           <li>
             Pirate Battle Game &nbsp;
             <a
               href="https://github.com/eetrusio14/pirate-game"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="button github"
+            >
+              <FaGithub /> &nbsp; View on GitHub
+            </a>
+          </li>
+          <li>
+            Operating System Simulation with Advanced Scheduling and Metric Graphs &nbsp;
+            <a
+              href="https://github.com/eetrusio14/Operating-Systems-Final.git"
               target="_blank"
               rel="noopener noreferrer"
               className="button github"
@@ -86,7 +98,7 @@ function App() {
       {/* Internship Section */}
       <section>
         <h3>Internship Experience</h3>
-        <p><strong>Colgate-Palmolive Corp.</strong> – IT Support Intern (Fall 2025)</p>
+        <p><strong>Colgate-Palmolive Corp.</strong> – IT Support Intern (Fall 2025 to Present)</p>
         <p><strong>Pacira BioSciences</strong> – Security Analytics & Development Intern (Summer 2025)</p>
         <p><strong>Schindler Elevator Corp.</strong> – Data Quality & Analytics Intern (Summer 2024)</p>
       </section>
