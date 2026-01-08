@@ -71,7 +71,7 @@ function App() {
         <h3>Highlighted Projects</h3>
         <ul>
           <li>
-            Pirate Battle Game &nbsp;
+            Pirate Battle Game (Spring 2025) &nbsp;
             <a
               href="https://github.com/eetrusio14/pirate-game"
               target="_blank"
@@ -82,7 +82,7 @@ function App() {
             </a>
           </li>
           <li>
-            Operating System Simulation with Advanced Scheduling and Metric Graphs &nbsp;
+            Operating System Simulation with Advanced Scheduling and Metric Graphs (Fall 2025) &nbsp;
             <a
               href="https://github.com/eetrusio14/Operating-Systems-Final.git"
               target="_blank"
@@ -90,6 +90,17 @@ function App() {
               className="button github"
             >
               <FaGithub /> &nbsp; View on GitHub
+            </a>
+          </li>
+          <li>
+            NJ Housing Prices and Relative Wage Growth Predictive Model (Fall 2025) &nbsp;
+            <a
+              href="https://www.linkedin.com/in/emmatrusio/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="button linkedin"
+            >
+              <FaLinkedin /> &nbsp; View on LinkedIn
             </a>
           </li>
         </ul>
