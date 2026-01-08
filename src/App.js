@@ -133,7 +133,7 @@ function App() {
       </section>
 
       <footer>
-        <p>© 2025 Emma Trusio | Hosted on GitHub Pages</p>
+        <p>© 2026 Emma Trusio | Hosted on GitHub Pages</p>
       </footer>
     </div>
   );
