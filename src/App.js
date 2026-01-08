@@ -69,9 +69,9 @@ function App() {
       {/* Projects Section */}
       <section>
         <h3>Highlighted Projects</h3>
-        <ul>
+        <ul className="projects-list">
           <li>
-            Pirate Battle Game (Spring 2025) &nbsp;
+            <div>Pirate Battle Game (Spring 2025)</div>
             <a
               href="https://github.com/eetrusio14/pirate-game"
               target="_blank"
@@ -81,8 +81,9 @@ function App() {
               <FaGithub /> &nbsp; View on GitHub
             </a>
           </li>
+          
           <li>
-            Operating System Simulation with Advanced Scheduling and Metric Graphs (Fall 2025) &nbsp;
+            <div>Operating System Simulation with Advanced Scheduling and Metric Graphs (Fall 2025)</div>
             <a
               href="https://github.com/eetrusio14/Operating-Systems-Final.git"
               target="_blank"
@@ -92,8 +93,9 @@ function App() {
               <FaGithub /> &nbsp; View on GitHub
             </a>
           </li>
+
           <li>
-            NJ Housing Prices and Relative Wage Growth Predictive Model (Fall 2025) &nbsp;
+            <div>NJ Housing Prices and Relative Wage Growth Predictive Model (Fall 2025)</div>
             <a
               href="https://www.linkedin.com/in/emmatrusio/"
               target="_blank"
