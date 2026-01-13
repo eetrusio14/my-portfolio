@@ -119,30 +119,6 @@ function App() {
             </a>
           </li>
 
-          <li>
-            <div>Pirate Battle Game (Spring 2025)</div>
-            <a
-              href="https://github.com/eetrusio14/pirate-game"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="button github"
-            >
-              <FaGithub /> &nbsp; View on GitHub
-            </a>
-          </li>
-
-          <li>
-            <div>Text Mining Assignments (Spring 2025)</div>
-            <a
-              href="https://github.com/eetrusio14/r-assignments"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="button github"
-            >
-              <FaGithub /> &nbsp; View on GitHub
-            </a>
-          </li>
-
         </ul>
       </section>
 
