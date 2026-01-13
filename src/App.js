@@ -16,8 +16,8 @@ function App() {
         <h3>About Me</h3>
         <p>
           I’m a senior at Seton Hall University pursuing a B.S. in Computer Science with a minor in Data Analytics.
-          My academic and professional focus currently lies in transforming raw data in actionable insights. I am also pursuing my ACE 
-          (Associate Cloud Engineer) and CompTIA+ Security Certificate.
+          My academic and professional focus currently lies in transforming raw data in actionable insights. I am also pursuing my <strong>Google Cloud ACE 
+          (Associate Cloud Engineer)</strong> and <strong>CompTIA+ Security Certificate</strong>.
         </p>
         <p>
           I’ve applied my skills through internships at <strong>Pacira BioSciences</strong>, 
