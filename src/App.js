@@ -113,6 +113,7 @@ function App() {
         <h3>Internship Experience</h3>
         <p><strong>Colgate-Palmolive Corp.</strong> – IT Support Intern (Fall 2025 to Present)</p>
         <p><strong>Pacira BioSciences</strong> – Security Analytics & Development Intern (Summer 2025)</p>
+        <p><strong>Seton Hall University - PC Support Services</strong> – Desktop Engineering Student Worker (Academic Year 2024-2025)</p>
         <p><strong>Schindler Elevator Corp.</strong> – Data Quality & Analytics Intern (Summer 2024)</p>
       </section>
 
