@@ -58,7 +58,7 @@ function App() {
               rel="noopener noreferrer"
               className="button resume"
             >
-              <FaFilePdf /> Download Resume
+              <FaFilePdf /> Download My Resume
             </a>
 
             <a href="mailto:eetrusio@gmail.com" className="button ghost">
@@ -97,30 +97,17 @@ function App() {
           <ul className="skills-grid">
             <li>Python</li>
             <li>Java</li>
-            <li>SQL</li>
+            <li>PostgreSQL</li>
             <li>R</li>
             <li>Power Query</li>
-            <li>HTML</li>
-            <li>CSS</li>
+            <li>PySpark</li>
+            <li>Scikit-Learn</li>
             <li>JavaScript</li>
             <li>Tableau</li>
-            <li>SASM</li>
+            <li>Pandas</li>
             <li>Git / GitHub</li>
-            <li>React</li>
+            <li>Apache Hadoop</li>
           </ul>
-        </section>
-
-        {/* Resume Section */}
-        <section className="card">
-          <h3 className="section-title">Resume</h3>
-          <a
-            href={`${process.env.PUBLIC_URL}/resume.pdf`}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="button resume"
-          >
-            <FaFilePdf /> Download My Resume
-          </a>
         </section>
 
         {/* Projects Section */}
