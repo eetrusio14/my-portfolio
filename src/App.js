@@ -213,7 +213,7 @@ function App() {
               <strong>Colgate-Palmolive Corp.</strong> – IT Support Intern <span className="muted">(Fall 2025 to Present)</span>
             </li>
             <li>
-              <strong>Pacira BioSciences</strong> – Security Analytics & Development Intern <span className="muted">(Summer 2025)</span>
+              <strong>Pacira BioSciences</strong> – IT Cybersecurity Intern <span className="muted">(Summer 2025)</span>
             </li>
             <li>
               <strong>Seton Hall University (PC Support Services)</strong> – Desktop Engineering Student Worker{' '}
