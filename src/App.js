@@ -106,7 +106,7 @@ function App() {
             <li>Tableau</li>
             <li>Pandas</li>
             <li>Git / GitHub</li>
-            <li>Apache Hadoop</li>
+            <li> Hadoop</li>
           </ul>
         </section>
 
@@ -189,7 +189,7 @@ function App() {
                 </div>
                 <div className="tags">
                   <span className="tag">SASM</span>
-                  <span className="tag">Low-level</span>
+                  <span className="tag">Conditional Jumps</span>
                   <span className="tag">Validation</span>
                 </div>
               </div>
