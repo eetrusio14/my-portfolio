@@ -77,12 +77,12 @@ function App() {
             <strong>CompTIA+ Security Certificate</strong>.
           </p>
           <p>
-            I’ve applied my skills through internships at <strong>Pacira BioSciences</strong>,{' '}
-            <strong> Colgate-Palmolive</strong>, and <strong>Schindler Elevator Corp.</strong>, where I developed
-            analytics dashboards, automated business workflows, and optimized data pipelines. My most recent projects
-            involved merging enterprise datasets and building an internal Power App that streamlined information flow
-            across teams — experiences that deepened my knowledge of data visualization, software design, and
-            cross-functional collaboration.
+            I’ve applied my skills through internships at <strong>Colgate-Palmolive</strong>,{' '}
+            <strong>Pacira BioSciences</strong>, and <strong>Schindler Elevator Corp.</strong>, where I developed
+            analytics dashboards, automated business workflows, and optimized data pipelines. I’m currently a{' '}
+            <strong>Data Engineering Intern at Colgate-Palmolive</strong>, building end-to-end ETL pipelines —
+            provisioning Snowflake infrastructure with Terraform, orchestrating ingestion with Airflow, and modeling
+            curated and consumption-layer dbt tables for treasury and finance reporting.
           </p>
           <p>
             I’m now pursuing opportunities in <strong>data engineering</strong> and <strong>software development</strong>,
@@ -97,16 +97,22 @@ function App() {
           <ul className="skills-grid">
             <li>Python</li>
             <li>Java</li>
-            <li>PostgreSQL</li>
             <li>R</li>
-            <li>Power Query</li>
-            <li>PySpark</li>
-            <li>Scikit-Learn</li>
             <li>JavaScript</li>
+            <li>PostgreSQL</li>
+            <li>Snowflake</li>
+            <li>Power BI</li>
+            <li>Power Query</li>
             <li>Tableau</li>
             <li>Pandas</li>
+            <li>PySpark</li>
+            <li>Scikit-Learn</li>
+            <li>dbt</li>
+            <li>Airflow</li>
+            <li>Terraform</li>
+            <li>AWS</li>
+            <li>GCP</li>
             <li>Git / GitHub</li>
-            <li> Hadoop</li>
           </ul>
         </section>
 
@@ -115,6 +121,73 @@ function App() {
           <h3 className="section-title">Highlighted Projects</h3>
 
           <ul className="projects">
+            <li className="project">
+              <div className="project-head">
+                <div>
+                  <div className="project-title">Classifying Reddit Comments Across 40 Subreddits</div>
+                  <div className="project-sub">Big Data Analytics — Spring 2026</div>
+                </div>
+                <div className="tags">
+                  <span className="tag">PySpark</span>
+                  <span className="tag">AWS EMR</span>
+                  <span className="tag">S3</span>
+                  <span className="tag">Machine Learning</span>
+                </div>
+              </div>
+              <a
+                href="https://github.com/eetrusio14/reddit-comment-classification"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="button github"
+              >
+                <FaGithub /> View on GitHub
+              </a>
+            </li>
+
+            <li className="project">
+              <div className="project-head">
+                <div>
+                  <div className="project-title">Traditional vs. Software-Defined Networking: A Performance Comparison</div>
+                  <div className="project-sub">Computer Networks — Spring 2026</div>
+                </div>
+                <div className="tags">
+                  <span className="tag">Python</span>
+                  <span className="tag">NetworkX</span>
+                  <span className="tag">Simulation</span>
+                </div>
+              </div>
+              <a
+                href="https://github.com/eetrusio14/sdn-vs-traditional-networking"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="button github"
+              >
+                <FaGithub /> View on GitHub
+              </a>
+            </li>
+
+            <li className="project">
+              <div className="project-head">
+                <div>
+                  <div className="project-title">End-to-End Enterprise Network Deployment</div>
+                  <div className="project-sub">Computer Networks — Spring 2026</div>
+                </div>
+                <div className="tags">
+                  <span className="tag">Cisco Packet Tracer</span>
+                  <span className="tag">VLANs / OSPF</span>
+                  <span className="tag">Network Security</span>
+                </div>
+              </div>
+              <a
+                href="https://github.com/eetrusio14/campus-network-cisco-packet-tracer"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="button github"
+              >
+                <FaGithub /> View on GitHub
+              </a>
+            </li>
+
             <li className="project">
               <div className="project-head">
                 <div>
@@ -210,7 +283,10 @@ function App() {
           <h3 className="section-title">Internship Experience</h3>
           <ul className="timeline">
             <li>
-              <strong>Colgate-Palmolive Corp.</strong> – IT Support Intern <span className="muted">(Fall 2025 to Present)</span>
+              <strong>Colgate-Palmolive Corp.</strong> – Data Engineering Intern <span className="muted">(Summer 2026 to Present)</span>
+            </li>
+            <li>
+              <strong>Colgate-Palmolive Corp.</strong> – IT Support Intern <span className="muted">(Fall 2025 to Spring 2026)</span>
             </li>
             <li>
               <strong>Pacira BioSciences</strong> – IT Cybersecurity Intern <span className="muted">(Summer 2025)</span>
